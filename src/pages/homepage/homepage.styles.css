@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding:0;
+    background-size: border-box;
+}
+.header-1{
+    position: relative;
+    top:-58.6vh;
+    left:60rem;
+    border:1px solid green;
+    height:45rem;
+    width:600px;
+    border-radius: 15.2%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: rotate(-140deg);
+    background-image:linear-gradient(to right bottom,
+  rgba(43, 7, 248, 0.8),
+  rgba(5, 186, 241, 0.8));
+  outline:none;
+}
+ 
+ .header-1:hover{
+  
+    -webkit-filter: drop-shadow(0px 0 12px #f73a01);
+            filter: drop-shadow(0 0 12px #f1042c);
+  }
+
