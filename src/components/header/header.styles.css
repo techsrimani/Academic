@@ -1,0 +1,45 @@
+.header {
+    
+    background-size: cover;
+    height: 70px;
+    width: 100%;
+    display: flex-;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    margin-top: 25px;
+   
+}
+.logo{
+    height: 20px;
+    width: 20px;
+}
+
+
+    .logo-container {
+    height: 100%;
+    width: 70px;
+    padding: 25px;
+}
+.img-1{
+    position:relative;
+    top:-4vh; 
+    height:200px;
+    width:200px;
+}
+  
+    .options {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: right;
+    justify-content: flex-end;
+}
+      .option {
+    padding: 10px 15px;
+    cursor: pointer;
+    position: relative;
+    top:-17vh;
+    left:40rem;
+}
+
+
